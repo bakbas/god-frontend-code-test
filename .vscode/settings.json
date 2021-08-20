@@ -1,0 +1,7 @@
+{
+  "workbench.tree.indent": 24,
+  "editor.detectIndentation": false,
+  "editor.autoIndent": "none",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4
+}
